@@ -1,12 +1,3 @@
-# a8#  
-# Weiyi Mao#  
-- more than 8 hours?
-- No
-- Google
-
-# What went well and tricky 
-- gtest and makefile
-- created new starter code for a8
 
 # **How to build and run** 
 ## To use gtest

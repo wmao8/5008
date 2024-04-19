@@ -1,22 +1,17 @@
-#a7#  
-#Weiyi Mao#  
-- more 3 hours?
-- No
-- Google
 
-#Command Name#  
+# **Command Name** 
 - cd  
 - help  
 - exit  
 - game  
   
-#Synopsis#  
+# **Synopsis**  
 - cd: change directory  
 - help: print out the description of all commands in in this shell  
 - exit: exit
 - game: Number 1-10 guess game 
 
-#Description#  
+# **Description**  
 - cd: change directory  
 	cd ~: change path back to home directory  
 	cd _folder_: enter the folder   
@@ -24,7 +19,7 @@
 - exit: exit the shell  
 - game: After the system prints "Guess the Number game" and "Pick a number between 1 and 10." The system will tell you if the number is too high or too low. If the number is correct, systems will print "Congratulations! That is correct."
 
-#Notes#  
+# **Notes**  
 I enter game after prompt  
 I enter cd ~ or cd _folder_  
 I enter help after prompt  

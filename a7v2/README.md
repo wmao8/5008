@@ -1,22 +1,19 @@
-#a7#  
-#Weiyi Mao#  
-- more 3 hours?
-- No
-- Google
+# a7#  
 
-#Command Name#  
+
+# **Command Name**  
 - cd  
 - help  
 - exit  
 - gameCommand  
   
-#Synopsis#  
+# **Synopsis** 
 - cd: change directory  
 - help: print out the description of all commands in in this shell  
 - exit: exit
 - gameCommand: print out “This is gameComand”  
 
-#Description#  
+# **Description** 
 - cd: change directory  
 	cd ~: change path back to home directory  
 	cd _folder_: enter the folder   
@@ -24,7 +21,7 @@
 - exit: exit the shell  
 - gameCommand: print out “This is gameComand”  
 
-#Notes#  
+# **Notes**  
 I enter gameCommand after prompt  
 I enter cd ~ or cd _folder_  
 I enter help after prompt  
